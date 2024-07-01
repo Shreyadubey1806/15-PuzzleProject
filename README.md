@@ -1,4 +1,5 @@
- 15 Puzzle Game Project
+ **15 Puzzle Game Project**
+ 
  **Description:**
 
 A captivating and interactive 15-puzzle game built using HTML, JavaScript, and the Bootstrap Framework. The project showcases the following features:
