@@ -28,3 +28,6 @@ Technologies Used:
 - **Local Storage**
   
 This project demonstrates the effective use of web technologies to create an enjoyable and challenging puzzle game. Explore the code and enjoy playing the 15-puzzle game!
+
+![image](https://github.com/Shreyadubey1806/15-PuzzleProject/assets/133537273/a45ef573-ad51-4094-b3f8-3f1d2bfcf603)
+
